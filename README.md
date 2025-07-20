@@ -21,4 +21,8 @@ This project is an intelligent surveillance system that detects smoking behavior
 - datetime and os for logging and audio management
 
 
+ ## 🎬 Demo
+
+<iframe src="https://drive.google.com/file/d/1dULOwObuPWrDMfLRPzXcajw8BA0vQUuj/preview" 
+        width="640" height="360" allow="autoplay"></iframe>
 
